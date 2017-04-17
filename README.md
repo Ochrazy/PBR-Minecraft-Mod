@@ -1,6 +1,8 @@
 # Physically Based Rendering Minecraft Mod
 Diese Mod erweitert Minecraft um ein Physically Based Rendering System. Dieses basiert im Kern auf der Implementation eines Screen-Space Raytracing Algorithmus für die Berechnung von Reflektionen auf den Minecraft Blöcken. Nähere Details können im Paper **spiegelblöcke.pdf** gefunden werden. 
 
+![alt tag](https://raw.githubusercontent.com/Ochrazy/PBR-Minecraft-Mod/master/spiegelbloecke/pbr.png)
+
 ## Installation:
 - Optifine in Version 1.8.9 installieren
 - Ordner "spiegelbloecke" nach .minecraft/shaderpacks kopieren (auf jeden Fall entzippt!)
